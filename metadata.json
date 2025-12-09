@@ -1,0 +1,7 @@
+{
+  "name": "MediAssist AI",
+  "description": "An intelligent, empathetic WhatsApp-style hospital automation agent powered by Gemini 2.5 Flash. Features automated patient triage, appointment scheduling, structured data extraction, and voice input.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
